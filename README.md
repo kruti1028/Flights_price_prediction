@@ -9,15 +9,16 @@ Flight ticket prices can be something hard to guess, today we might see a price,
 Columns
 
 **FEATURES:**
-Airline: The name of the airline.
-Date_of_Journey: The date of the journey
-Source: The source from which the service begins.
-Destination: The destination where the service ends.
-Route: The route taken by the flight to reach the destination.
-Dep_Time: The time when the journey starts from the source.
-Arrival_Time: Time of arrival at the destination.
-Duration: Total duration of the flight.
-Total_Stops: Total stops between the source and destination.
-Additional_Info: Additional information about the flight
-Price: The price of the ticket
+
+1. Airline: The name of the airline.
+2. Date_of_Journey: The date of the journey
+3. Source: The source from which the service begins.
+4. Destination: The destination where the service ends.
+5. Route: The route taken by the flight to reach the destination.
+6. Dep_Time: The time when the journey starts from the source.
+7. Arrival_Time: Time of arrival at the destination.
+8. Duration: Total duration of the flight.
+9. Total_Stops: Total stops between the source and destination.
+10. Additional_Info: Additional information about the flight
+11. Price: The price of the ticket
 
